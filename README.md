@@ -1,4 +1,4 @@
-# vue-cars
+# vuejs-starter
 
 > A Vue.js project
 
